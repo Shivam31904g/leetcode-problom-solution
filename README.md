@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,8 +53,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
