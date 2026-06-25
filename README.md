@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -58,9 +59,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -78,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1346-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
