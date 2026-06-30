@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0016-3sum-closest) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -92,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0016-3sum-closest) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0016-3sum-closest) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
