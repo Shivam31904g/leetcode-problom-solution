@@ -46,17 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0226-invert-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0226-invert-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0226-invert-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0226-invert-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/2089-find-target-indices-after-sorting-array) |
