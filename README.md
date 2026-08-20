@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
