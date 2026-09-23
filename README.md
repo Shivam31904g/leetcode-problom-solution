@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0037-sudoku-solver) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
