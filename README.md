@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0216-combination-sum-iii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0022-generate-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0176-second-highest-salary) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
