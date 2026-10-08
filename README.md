@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -171,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
