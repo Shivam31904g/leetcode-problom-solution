@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Tree
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
