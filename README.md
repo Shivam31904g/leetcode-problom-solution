@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivam31904g/leetcode-problom-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## String
